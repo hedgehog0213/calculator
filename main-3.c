@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <ssstdio.h>
  
 int add(int, int);
 int sub(int, int);
