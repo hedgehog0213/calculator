@@ -2,7 +2,7 @@
  
 int add(int, int);
 int sub(int, int);
-int div(int, int);
+int div_new(int, int);
 int multi(int, int);
  
 int main(int argc, char* argv[])
